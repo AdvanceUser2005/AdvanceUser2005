@@ -44,7 +44,7 @@ Production-style warehouse robot simulation focused on:
 </td>
 <td width="50%">
 
-### ⚡ Mini Tesla
+###  Mini Tesla
 
 Autonomous mecanum-drive EV robot platform focused on:
 
