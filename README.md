@@ -13,7 +13,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://advanceuser2005.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-gupta-626ba11b5/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mailtodaksh@vt.edu)
 
 </div>
@@ -39,7 +39,7 @@ Production-style warehouse robot simulation focused on:
 
 **Stack:** ROS 2 · C++ · Python · Nav2 · Gazebo · Docker
 
-🔗 **Repo:** [ros2-warehouse-fleet-sim](https://github.com/advanceuser2005/ros2-warehouse-fleet-sim)
+🔗 **Repo:** [ros2-warehouse-fleet-sim](https://github.com/AdvanceUser2005/ros2-warehouse-fleet-sim)
 
 </td>
 <td width="50%">
@@ -57,7 +57,7 @@ Autonomous mecanum-drive EV robot platform focused on:
 
 **Stack:** ROS 2 · Teensy · Jetson · C++ · Gazebo
 
-🔗 **Repo:** [mini-tesla](https://github.com/advanceuser2005/mini-tesla)
+🔗 **Repo:** [Mini_Tesla](https://github.com/AdvanceUser2005/Mini_Tesla)
 
 </td>
 </tr>
@@ -69,15 +69,16 @@ Autonomous mecanum-drive EV robot platform focused on:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=advanceuser2005&show_icons=true&theme=tokyonight&hide_border=false&border_color=22c55e&title_color=22c55e&icon_color=22c55e" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdvanceUser2005&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advanceuser2005&layout=compact&theme=tokyonight&hide_border=false&border_color=22c55e&title_color=22c55e" />
+<br><br>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdvanceUser2005&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdvanceUser2005&theme=github_dark" />
 
-<div align="center">
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=advanceuser2005&theme=tokyonight&border=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdvanceUser2005&theme=tokyonight&border=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
 
 </div>
 
@@ -129,13 +130,34 @@ Autonomous mecanum-drive EV robot platform focused on:
 
 ## 🎯 Career Focus
 
-```text
-Robotics Software
-        +
-Embedded Systems
-        +
-Simulation
-        +
-Autonomous Navigation
-        +
-Production-Style Tooling
+I’m working toward roles in:
+
+- 🤖 Robotics Software Engineering
+- 💻 Robotics SDE
+- 🧭 Autonomous Navigation
+- 🛠️ Embedded Robotics
+- 🧪 Robot Simulation
+- 📡 Fleet Telemetry / Robot Operations
+- ☁️ Cloud + Edge Robotics Systems
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://advanceuser2005.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-gupta-626ba11b5/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mailtodaksh@vt.edu)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ I like building systems where software, electronics, and mechanics all have to work together.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:0f172a&height=4&section=footer"/>
+
+</div>
