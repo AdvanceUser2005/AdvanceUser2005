@@ -69,15 +69,6 @@ Autonomous mecanum-drive EV robot platform focused on:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdvanceUser2005&theme=github_dark" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdvanceUser2005&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdvanceUser2005&theme=github_dark" />
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdvanceUser2005&theme=tokyonight&border=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
 
 </div>
@@ -139,18 +130,6 @@ I’m working toward roles in:
 - 🧪 Robot Simulation
 - 📡 Fleet Telemetry / Robot Operations
 - ☁️ Cloud + Edge Robotics Systems
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://advanceuser2005.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-gupta-626ba11b5/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mailtodaksh@vt.edu)
-
-</div>
 
 ---
 
