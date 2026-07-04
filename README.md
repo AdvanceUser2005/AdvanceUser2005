@@ -13,8 +13,8 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://advanceuser2005.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/advanceuser2005)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtodaksh@vt.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mailtodaksh@vt.edu)
 
 </div>
 
@@ -39,6 +39,8 @@ Production-style warehouse robot simulation focused on:
 
 **Stack:** ROS 2 · C++ · Python · Nav2 · Gazebo · Docker
 
+🔗 **Repo:** [ros2-warehouse-fleet-sim](https://github.com/advanceuser2005/ros2-warehouse-fleet-sim)
+
 </td>
 <td width="50%">
 
@@ -55,31 +57,11 @@ Autonomous mecanum-drive EV robot platform focused on:
 
 **Stack:** ROS 2 · Teensy · Jetson · C++ · Gazebo
 
+🔗 **Repo:** [mini-tesla](https://github.com/advanceuser2005/mini-tesla)
+
 </td>
 </tr>
 </table>
-
----
-
-## ⭐ Featured Robotics Repositories
-
-<div align="center">
-
-<a href="https://github.com/advanceuser2005/ros2-warehouse-fleet-sim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=advanceuser2005&repo=ros2-warehouse-fleet-sim&theme=tokyonight&border_color=22c55e&title_color=22c55e&icon_color=22c55e" />
-</a>
-<a href="https://github.com/advanceuser2005/mini-tesla">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=advanceuser2005&repo=mini-tesla&theme=tokyonight&border_color=22c55e&title_color=22c55e&icon_color=22c55e" />
-</a>
-
-<a href="https://github.com/advanceuser2005/lunar-resq">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=advanceuser2005&repo=lunar-resq&theme=tokyonight&border_color=22c55e&title_color=22c55e&icon_color=22c55e" />
-</a>
-<a href="https://github.com/advanceuser2005/mining-mayhem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=advanceuser2005&repo=mining-mayhem&theme=tokyonight&border_color=22c55e&title_color=22c55e&icon_color=22c55e" />
-</a>
-
-</div>
 
 ---
 
