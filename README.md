@@ -2,8 +2,7 @@
 
 # 👋 Hey, I'm Daksh Gupta
 
-### 🤖 Robotics Software Engineer in Progress  
-### ROS 2 · C++ · Embedded Systems · Autonomous Navigation · Robot Simulation
+### 🤖 Robotics Software · ROS 2 · C++ · Embedded Systems · Autonomous Navigation
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:22c55e&height=4&section=header"/>
 
@@ -21,77 +20,84 @@
 
 ---
 
-## 🚀 What I'm Building Right Now
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🏭 ROS 2 Warehouse Fleet Simulation
 
-A production-style robotics software project focused on autonomous warehouse robots.
+Production-style warehouse robot simulation focused on:
 
-**Core ideas:**
+- Autonomous navigation
+- Mission/task execution
+- Robot health monitoring
+- Fleet telemetry
+- Dockerized robotics development
+- AWS-based monitoring planned
 
-- 🧭 Autonomous navigation
-- 📦 Task execution and mission control
-- 🩺 Robot health monitoring
-- 📡 Fleet telemetry
-- 🛠️ Local debugging tools
-- ☁️ Future AWS-based fleet monitoring
+**Stack:** ROS 2 · C++ · Python · Nav2 · Gazebo · Docker
 
-**Tech Stack**
+</td>
+<td width="50%">
 
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Nav2](https://img.shields.io/badge/Nav2-Navigation-blue?style=flat-square)
-![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS Planned](https://img.shields.io/badge/AWS-Planned-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+### ⚡ Mini Tesla
 
-📌 **Status:** In Progress  
-🔗 **Repo:** Coming soon
+Autonomous mecanum-drive EV robot platform focused on:
 
----
+- Embedded motor control
+- Encoder feedback
+- PID velocity control
+- Regenerative braking architecture
+- Emergency braking logic
+- ROS 2 autonomy
 
-### ⚡ Mini Tesla — Autonomous Mecanum EV Robot Platform
+**Stack:** ROS 2 · Teensy · Jetson · C++ · Gazebo
 
-A small-scale autonomous EV robot platform focused on embedded control, drivetrain design, and ROS 2 autonomy.
-
-**Features:**
-
-- 🛞 Mecanum-drive motion
-- 🎛️ Embedded motor control
-- 🔁 Encoder feedback
-- 🎯 PID velocity control
-- 🔋 Regenerative braking architecture
-- 🚨 Emergency braking logic
-- 🤖 ROS 2 autonomy
-- 🧪 Gazebo simulation-first workflow
-
-**Tech Stack**
-
-![ROS 2](https://img.shields.io/badge/ROS%202-Jazzy%2FHumble-22314E?style=flat-square&logo=ros&logoColor=white)
-![Teensy](https://img.shields.io/badge/Teensy%204.1-Embedded-blue?style=flat-square)
-![Jetson](https://img.shields.io/badge/Jetson%20Orin%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![PID](https://img.shields.io/badge/PID-Control-purple?style=flat-square)
-![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange?style=flat-square)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Robotics Experience
+## ⭐ Featured Robotics Repositories
 
-### 🤖 VT Competitive Robotics
+<div align="center">
 
-I worked on autonomous competition robots for IEEE SoutheastCon through VT Competitive Robotics.
+<a href="https://github.com/advanceuser2005/ros2-warehouse-fleet-sim">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=advanceuser2005&repo=ros2-warehouse-fleet-sim&theme=tokyonight&border_color=22c55e&title_color=22c55e&icon_color=22c55e" />
+</a>
+<a href="https://github.com/advanceuser2005/mini-tesla">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=advanceuser2005&repo=mini-tesla&theme=tokyonight&border_color=22c55e&title_color=22c55e&icon_color=22c55e" />
+</a>
 
-I worked with:
+<a href="https://github.com/advanceuser2005/lunar-resq">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=advanceuser2005&repo=lunar-resq&theme=tokyonight&border_color=22c55e&title_color=22c55e&icon_color=22c55e" />
+</a>
+<a href="https://github.com/advanceuser2005/mining-mayhem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=advanceuser2005&repo=mining-mayhem&theme=tokyonight&border_color=22c55e&title_color=22c55e&icon_color=22c55e" />
+</a>
 
-- 🧩 ROS / ROS 2 robotics software
-- 🧭 Autonomous navigation
-- 🎯 PID motion control
-- 🗺️ SLAM and localization workflows
-- 🧵 TF transforms and odometry debugging
-- 🧪 Gazebo / Isaac Sim simulation
-- 📡 Isaac ROS nvblox telemetry/debugging tools
-- 🔌 Hardware and software integration
+</div>
+
+---
+
+## 📊 Coding Snapshot
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=advanceuser2005&show_icons=true&theme=tokyonight&hide_border=false&border_color=22c55e&title_color=22c55e&icon_color=22c55e" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advanceuser2005&layout=compact&theme=tokyonight&hide_border=false&border_color=22c55e&title_color=22c55e" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=advanceuser2005&theme=tokyonight&border=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+
+</div>
 
 ---
 
@@ -113,7 +119,7 @@ I worked with:
 ![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange?style=for-the-badge)
 ![Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### ⚙️ Systems / Tools
+### ⚙️ Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -129,7 +135,7 @@ I worked with:
 ![RealSense](https://img.shields.io/badge/Intel%20RealSense-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![LiDAR](https://img.shields.io/badge/LiDAR-Sensing-red?style=for-the-badge)
 
-### 🧰 EE / Design Tools
+### 🧰 EE / Design
 
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge)
@@ -139,43 +145,7 @@ I worked with:
 
 ---
 
-## 📌 Featured Projects
-
-| 🚀 Project | 🧠 What It Does | 🛠️ Tech |
-|---|---|---|
-| 🏭 **ROS 2 Warehouse Fleet Simulation** | Autonomous warehouse robot simulation with task execution, robot health monitoring, and fleet telemetry | ROS 2, C++, Python, Nav2, Gazebo, Docker |
-| ⚡ **Mini Tesla** | Autonomous mecanum-drive EV robot platform with embedded control and ROS 2 autonomy | ROS 2, Teensy, Jetson, PID, Gazebo |
-| 🚑 **Lunar ResQ** | Autonomous rescue rover/drone system for IEEE SoutheastCon 2026 | ROS 2 Jazzy, SLAM, Gazebo, Isaac Sim |
-| ⛏️ **Mining Mayhem** | Autonomous object-sorting robot for IEEE SoutheastCon 2025 | ROS, navigation, AprilTags, odometry |
-| 🌱 **MoonLit** | ESP32-MQTT IoT platform for plant monitoring and automation | ESP32, MQTT, React Native |
-
----
-
-## 🌱 Currently Learning
-
-- 🧠 Modern C++
-- 📚 Data Structures and Algorithms
-- 🤖 ROS 2 system architecture
-- 🧭 Nav2 and autonomous navigation
-- 🟩 NVIDIA Isaac Sim
-- 🐳 Dockerized robotics development
-- ☁️ AWS IoT / edge systems for robot fleet monitoring
-
----
-
 ## 🎯 Career Focus
-
-I’m working toward roles in:
-
-- 🤖 Robotics Software Engineering
-- 💻 Robotics SDE
-- 🧭 Autonomous Navigation
-- 🔌 Embedded Robotics
-- 🧪 Robot Simulation
-- 📡 Fleet Telemetry / Robot Operations
-- ☁️ Cloud + Edge Robotics Systems
-
-My current focus is building projects that combine:
 
 ```text
 Robotics Software
