@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Daksh Gupta
+#  Hey, I'm Daksh Gupta
 
-### 🤖 Robotics Software · ROS 2 · C++ · Embedded Systems · Autonomous Navigation
+### Robotics Software · ROS 2 · C++ · Embedded Systems · Autonomous Navigation
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:22c55e&height=4&section=header"/>
 
@@ -20,13 +20,13 @@
 
 ---
 
-## 🚀 What I'm Building
+##  What I'm Building
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏭 ROS 2 Warehouse Fleet Simulation
+###  ROS 2 Warehouse Fleet Simulation
 
 Production-style warehouse robot simulation focused on:
 
@@ -65,7 +65,7 @@ Autonomous mecanum-drive EV robot platform focused on:
 
 ---
 
-## 📊 Coding Snapshot
+##  Coding Snapshot
 
 <div align="center">
 
